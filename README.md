@@ -2,9 +2,9 @@
 - This project is made up of a number of tasks that describes the development of device drivers for beaglebone black.
 
 ## Task
-| Task   | Description                                  |
-|--------|----------------------------------------------|
-| 01     | developed a simple kernel module             |
+| Task   | Description                                               |
+|--------|-----------------------------------------------------------|
+| 01     | developed and installed simple kernel module              |
 
 ## Setup
 When cross compiling a kernel module for a particular target board, the linux kernel version on the target should be the same version used in cross compiling.
