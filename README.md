@@ -5,6 +5,7 @@
 | Task   | Description                                               |
 |--------|-----------------------------------------------------------|
 | 01     | developed and installed simple kernel module              |
+| 04     | driver with multiple nodes                                |
 
 ## Setup
 When cross compiling a kernel module for a particular target board, the linux kernel version on the target should be the same version used in cross compiling.
